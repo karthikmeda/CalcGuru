@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.1145da88.css",
-    "main.js": "/static/js/main.ef014b83.js",
-    "static/media/calcguru_logo.png": "/static/media/calcguru_logo.2563cedb97a4f83bcfa5.png",
-    "index.html": "/index.html",
-    "main.1145da88.css.map": "/static/css/main.1145da88.css.map",
-    "main.ef014b83.js.map": "/static/js/main.ef014b83.js.map"
+    "main.css": "/CalcGuru/static/css/main.0126ab12.css",
+    "main.js": "/CalcGuru/static/js/main.ed2fa998.js",
+    "static/media/calcguru_logo.png": "/CalcGuru/static/media/calcguru_logo.2563cedb97a4f83bcfa5.png",
+    "index.html": "/CalcGuru/index.html",
+    "main.0126ab12.css.map": "/CalcGuru/static/css/main.0126ab12.css.map",
+    "main.ed2fa998.js.map": "/CalcGuru/static/js/main.ed2fa998.js.map"
   },
   "entrypoints": [
-    "static/css/main.1145da88.css",
-    "static/js/main.ef014b83.js"
+    "static/css/main.0126ab12.css",
+    "static/js/main.ed2fa998.js"
   ]
 }
